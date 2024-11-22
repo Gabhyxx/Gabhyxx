@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-My name is Gabriel, also known as Gabhyxx, and i'm [Straight Edge](https://en.wikipedia.org/wiki/Straight_edge) and a videogame developer, future full-time game designer, who's learning web development web development. I'm very passionate about videogames, and they've been part of my life since i was a 6 year old kid.
+My name is Gabriel, also known as Gabhyxx, and i'm [Straight Edge](https://en.wikipedia.org/wiki/Straight_edge) and a videogame developer, future full-time game designer. I'm very passionate about videogames, and they've been part of my life since i was a 6 year old kid.
 
 ## 🛠 Skills
 ### **For Videogames**
@@ -12,18 +12,12 @@ My name is Gabriel, also known as Gabhyxx, and i'm [Straight Edge](https://en.wi
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)]()
 
-### **For Webpages**
-#### Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,css,html)]()
-#### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman)]()
-
 
 
 ## 😮 Other stuff
-👩‍💻 I'm currently working on: Point and Click Project
+👩‍💻 I'm currently working on: Point and Click Project & Some cool mechanics 
 
-🧠 I'm currently learning: Web development
+🧠 I'm currently learning: Anything related to videogames
 
 👯‍♀️ I'm looking to collaborate on: Videogames
 
