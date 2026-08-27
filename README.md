@@ -28,10 +28,6 @@ My name is Gabriel, also known as Gabhyxx, and i'm [Straight Edge](https://en.wi
 ⚡️ Fun fact: I love foxes as much as i love videogames 🦊
 
 ## ✉️ Contact me
-<p align="left">
-  <a href="https://x.com/TheGabhyxxGames">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
   <a href="https://www.linkedin.com/in/gabriel-gabhyxx/">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
