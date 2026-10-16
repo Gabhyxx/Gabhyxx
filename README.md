@@ -15,7 +15,7 @@ My name is Gabriel, also known as Gabhyxx, and i'm [Straight Edge](https://en.wi
 
 
 ## 😮 Other stuff
-👩‍💻 I'm currently working on: Point and Click Project & Some cool mechanics 
+👩‍💻 I'm currently working on: Trying new stuff for my portfolio
 
 🧠 I'm currently learning: Anything related to videogames
 
