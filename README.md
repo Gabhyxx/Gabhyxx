@@ -7,10 +7,8 @@ My name is Gabriel, also known as Gabhyxx, and i'm [Straight Edge](https://en.wi
 
 ## 🛠 Skills
 ### **For Videogames**
-#### Technologies
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,unreal)]()
-#### Tools
-[![My Skills](https://skillicons.dev/icons?i=visualstudio)]()
+#### Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal,visualstudio,blender)]()
 
 
 
